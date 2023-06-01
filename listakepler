@@ -1,4 +1,671 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="LAP04: DISCOVERY KIDS FHD" tvg-logo="http://www.skytvpluzz.xyz:8000/images/fa168eb9320626bb64b975dea612a6d5.png" group-title="⚪ -  LATINOS PREMIUM",LAP04: DISCOVERY KIDS FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602520
+#EXTINF:-1 tvg-id="" tvg-name="LAP05: DISCOVERY KIDS HD" tvg-logo="http://www.skytvpluzz.xyz:8000/images/fa168eb9320626bb64b975dea612a6d5.png" group-title="⚪ -  LATINOS PREMIUM",LAP05: DISCOVERY KIDS HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602521
+#EXTINF:-1 tvg-id="" tvg-name="LAP06: DISCOVERY KIDS" tvg-logo="http://www.skytvpluzz.xyz:8000/images/fa168eb9320626bb64b975dea612a6d5.png" group-title="⚪ -  LATINOS PREMIUM",LAP06: DISCOVERY KIDS
+http://k4livetv.com:8080/Sandra321/Sandra321/602522
+#EXTINF:-1 tvg-id="" tvg-name="LAP07: DIA TV FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP07: DIA TV FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602523
+#EXTINF:-1 tvg-id="" tvg-name="LAP08: DIA TV HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP08: DIA TV HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602524
+#EXTINF:-1 tvg-id="" tvg-name="LAP09: DIA TV" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP09: DIA TV
+http://k4livetv.com:8080/Sandra321/Sandra321/602525
+#EXTINF:-1 tvg-id="" tvg-name="LAP10: CANAL CAPITAL FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP10: CANAL CAPITAL FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602526
+#EXTINF:-1 tvg-id="" tvg-name="LAP11: CANAL CAPITAL HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP11: CANAL CAPITAL HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602527
+#EXTINF:-1 tvg-id="" tvg-name="LAP12: CANAL CAPITAL" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP12: CANAL CAPITAL
+http://k4livetv.com:8080/Sandra321/Sandra321/602528
+#EXTINF:-1 tvg-id="" tvg-name="LAP13: CINECANAL FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP13: CINECANAL FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602529
+#EXTINF:-1 tvg-id="" tvg-name="LAP14: CINECANAL HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP14: CINECANAL HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602530
+#EXTINF:-1 tvg-id="" tvg-name="LAP15: CINECANAL" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP15: CINECANAL
+http://k4livetv.com:8080/Sandra321/Sandra321/602531
+#EXTINF:-1 tvg-id="" tvg-name="LAP16: CANAL UNO FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP16: CANAL UNO FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602532
+#EXTINF:-1 tvg-id="" tvg-name="LAP17: CANAL UNO HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP17: CANAL UNO HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602533
+#EXTINF:-1 tvg-id="" tvg-name="LAP18: CANAL UNO" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP18: CANAL UNO
+http://k4livetv.com:8080/Sandra321/Sandra321/602534
+#EXTINF:-1 tvg-id="" tvg-name="LAP19: DISCOVERY CHANNEL FHD" tvg-logo="http://www.skytvpluzz.xyz:8000/images/641cb8a57d5d2d6a6291146eb2adf015.png" group-title="⚪ -  LATINOS PREMIUM",LAP19: DISCOVERY CHANNEL FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602535
+#EXTINF:-1 tvg-id="" tvg-name="LAP20 DISCOVERY CHANNEL HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP20 DISCOVERY CHANNEL HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602536
+#EXTINF:-1 tvg-id="" tvg-name="LAP21: DISCOVERY CHANNEL" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP21: DISCOVERY CHANNEL
+http://k4livetv.com:8080/Sandra321/Sandra321/602537
+#EXTINF:-1 tvg-id="" tvg-name="LAP22: DISCOVERY HOME HEALTH FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP22: DISCOVERY HOME HEALTH FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602538
+#EXTINF:-1 tvg-id="" tvg-name="LAP23: DISCOVERY HOME HEALTH HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP23: DISCOVERY HOME HEALTH HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602539
+#EXTINF:-1 tvg-id="" tvg-name="LAP24: DISCOVERY HOME HEALTH" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP24: DISCOVERY HOME HEALTH
+http://k4livetv.com:8080/Sandra321/Sandra321/602540
+#EXTINF:-1 tvg-id="" tvg-name="LAP25: HBO 2 FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP25: HBO 2 FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602541
+#EXTINF:-1 tvg-id="" tvg-name="LAP26: HBO 2 HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP26: HBO 2 HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602542
+#EXTINF:-1 tvg-id="" tvg-name="LAP27: HBO 2" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP27: HBO 2
+http://k4livetv.com:8080/Sandra321/Sandra321/602543
+#EXTINF:-1 tvg-id="" tvg-name="LAP28: AE MUNDO FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP28: AE MUNDO FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602544
+#EXTINF:-1 tvg-id="" tvg-name="LAP29: AE MUNDO HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP29: AE MUNDO HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602545
+#EXTINF:-1 tvg-id="" tvg-name="LAP30: AE MUNDO" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP30: AE MUNDO
+http://k4livetv.com:8080/Sandra321/Sandra321/602546
+#EXTINF:-1 tvg-id="" tvg-name="LAP31: AZMUNDO FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP31: AZMUNDO FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602547
+#EXTINF:-1 tvg-id="" tvg-name="LAP32: AZMUNDO HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP32: AZMUNDO HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602548
+#EXTINF:-1 tvg-id="" tvg-name="LAP33: AZMUNDO" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP33: AZMUNDO
+http://k4livetv.com:8080/Sandra321/Sandra321/602549
+#EXTINF:-1 tvg-id="" tvg-name="LAP34: DISCOVERY THEATER FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP34: DISCOVERY THEATER FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602550
+#EXTINF:-1 tvg-id="" tvg-name="LAP35: DISCOVERY THEATER HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP35: DISCOVERY THEATER HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602551
+#EXTINF:-1 tvg-id="" tvg-name="LAP36: DISCOVERY THEATER" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP36: DISCOVERY THEATER
+http://k4livetv.com:8080/Sandra321/Sandra321/602552
+#EXTINF:-1 tvg-id="" tvg-name="LAP37: CARTOON NETWORK FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP37: CARTOON NETWORK FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602553
+#EXTINF:-1 tvg-id="" tvg-name="LAP38: CARTOON NETWORK HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP38: CARTOON NETWORK HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602554
+#EXTINF:-1 tvg-id="" tvg-name="LAP39: CARTOON NETWORK" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP39: CARTOON NETWORK
+http://k4livetv.com:8080/Sandra321/Sandra321/602555
+#EXTINF:-1 tvg-id="" tvg-name="LAP40: WINPREMIUM FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP40: WINPREMIUM FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602556
+#EXTINF:-1 tvg-id="" tvg-name="LAP41: WINPREMIUM HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP41: WINPREMIUM HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602557
+#EXTINF:-1 tvg-id="" tvg-name="LAP42: WINPREMIUM" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP42: WINPREMIUM
+http://k4livetv.com:8080/Sandra321/Sandra321/602558
+#EXTINF:-1 tvg-id="" tvg-name="LAP43: AZCORAZON FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP43: AZCORAZON FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602559
+#EXTINF:-1 tvg-id="" tvg-name="LAP44: AZCORAZON HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP44: AZCORAZON HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602560
+#EXTINF:-1 tvg-id="" tvg-name="LAP45: AZCORAZON" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP45: AZCORAZON
+http://k4livetv.com:8080/Sandra321/Sandra321/602561
+#EXTINF:-1 tvg-id="" tvg-name="LAP46: WINSPORTS FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP46: WINSPORTS FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602562
+#EXTINF:-1 tvg-id="" tvg-name="LAP47: WINSPORTS HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP47: WINSPORTS HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602563
+#EXTINF:-1 tvg-id="" tvg-name="LAP48: WINSPORTS" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP48: WINSPORTS
+http://k4livetv.com:8080/Sandra321/Sandra321/602564
+#EXTINF:-1 tvg-id="" tvg-name="LAP49: ANIMAL PLANET FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP49: ANIMAL PLANET FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602565
+#EXTINF:-1 tvg-id="" tvg-name="LAP50: ANIMAL PLANET HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP50: ANIMAL PLANET HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602566
+#EXTINF:-1 tvg-id="" tvg-name="LAP51: ANIMAL PLANET" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP51: ANIMAL PLANET
+http://k4livetv.com:8080/Sandra321/Sandra321/602567
+#EXTINF:-1 tvg-id="" tvg-name="LAP52: AXN FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP52: AXN FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602568
+#EXTINF:-1 tvg-id="" tvg-name="LAP53: AXN HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP53: AXN HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602569
+#EXTINF:-1 tvg-id="" tvg-name="LAP54: AXN" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP54: AXN
+http://k4livetv.com:8080/Sandra321/Sandra321/602570
+#EXTINF:-1 tvg-id="" tvg-name="LAP55: DISCOVERY WORLD FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP55: DISCOVERY WORLD FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602571
+#EXTINF:-1 tvg-id="" tvg-name="LAP56: DISCOVERY WORLD HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP56: DISCOVERY WORLD HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602572
+#EXTINF:-1 tvg-id="" tvg-name="LAP57: DISCOVERY WORLD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP57: DISCOVERY WORLD
+http://k4livetv.com:8080/Sandra321/Sandra321/602573
+#EXTINF:-1 tvg-id="" tvg-name="LAP58: AMC FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP58: AMC FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602574
+#EXTINF:-1 tvg-id="" tvg-name="LAP59: AMC HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP59: AMC HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602575
+#EXTINF:-1 tvg-id="" tvg-name="LAP60: AMC" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP60: AMC
+http://k4livetv.com:8080/Sandra321/Sandra321/602576
+#EXTINF:-1 tvg-id="" tvg-name="LAP61: DISNEY FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP61: DISNEY FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602577
+#EXTINF:-1 tvg-id="" tvg-name="LAP62: DISNEY HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP62: DISNEY HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602578
+#EXTINF:-1 tvg-id="" tvg-name="LAP63: DISNEY" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP63: DISNEY
+http://k4livetv.com:8080/Sandra321/Sandra321/602579
+#EXTINF:-1 tvg-id="" tvg-name="LAP64: CANAL CLARO FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP64: CANAL CLARO FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602580
+#EXTINF:-1 tvg-id="" tvg-name="LAP65: CANAL CLARO HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP65: CANAL CLARO HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602581
+#EXTINF:-1 tvg-id="" tvg-name="LAP66: CANAL CLARO" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP66: CANAL CLARO
+http://k4livetv.com:8080/Sandra321/Sandra321/602582
+#EXTINF:-1 tvg-id="" tvg-name="LAP67: CLARO SPORT LATINOAMERICA FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP67: CLARO SPORT LATINOAMERICA FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602583
+#EXTINF:-1 tvg-id="" tvg-name="LAP68: CLARO SPORT LATINOAMERICA HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP68: CLARO SPORT LATINOAMERICA HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602584
+#EXTINF:-1 tvg-id="" tvg-name="LAP69: CLARO SPORT LATINOAMERICA" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP69: CLARO SPORT LATINOAMERICA
+http://k4livetv.com:8080/Sandra321/Sandra321/602585
+#EXTINF:-1 tvg-id="" tvg-name="LAP70: ESPN 3 FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP70: ESPN 3 FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602586
+#EXTINF:-1 tvg-id="" tvg-name="LAP71: ESPN 3 HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP71: ESPN 3 HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602587
+#EXTINF:-1 tvg-id="" tvg-name="LAP72: ESPN 3" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP72: ESPN 3
+http://k4livetv.com:8080/Sandra321/Sandra321/602588
+#EXTINF:-1 tvg-id="" tvg-name="LAP73: FOX SP3 ARGENTINA FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP73: FOX SP3 ARGENTINA FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602589
+#EXTINF:-1 tvg-id="" tvg-name="LAP74: FOX SP3 ARGENTINA HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP74: FOX SP3 ARGENTINA HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602590
+#EXTINF:-1 tvg-id="" tvg-name="LAP75: FOX SP3 ARGENTINA" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP75: FOX SP3 ARGENTINA
+http://k4livetv.com:8080/Sandra321/Sandra321/602591
+#EXTINF:-1 tvg-id="" tvg-name="LAP76: HBO PLUS FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP76: HBO PLUS FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602592
+#EXTINF:-1 tvg-id="" tvg-name="LAP77: HBO PLUS HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP77: HBO PLUS HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602593
+#EXTINF:-1 tvg-id="" tvg-name="LAP78: HBO PLUS" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP78: HBO PLUS
+http://k4livetv.com:8080/Sandra321/Sandra321/602594
+#EXTINF:-1 tvg-id="" tvg-name="LAP79: ESPN PLUS FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP79: ESPN PLUS FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602595
+#EXTINF:-1 tvg-id="" tvg-name="LAP80: ESPN PLUS HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP80: ESPN PLUS HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602596
+#EXTINF:-1 tvg-id="" tvg-name="LAP81: ESPN PLUS" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP81: ESPN PLUS
+http://k4livetv.com:8080/Sandra321/Sandra321/602597
+#EXTINF:-1 tvg-id="" tvg-name="LAP82: FOX SP2 MX FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP82: FOX SP2 MX FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602598
+#EXTINF:-1 tvg-id="" tvg-name="LAP83: FOX SP2 MX HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP83: FOX SP2 MX HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602599
+#EXTINF:-1 tvg-id="" tvg-name="LAP84: FOX SP2 MX" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP84: FOX SP2 MX
+http://k4livetv.com:8080/Sandra321/Sandra321/602600
+#EXTINF:-1 tvg-id="" tvg-name="LAP85: UNIVERSAL CHANNEL FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP85: UNIVERSAL CHANNEL FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602601
+#EXTINF:-1 tvg-id="" tvg-name="LAP86: UNIVERSAL CHANNEL HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP86: UNIVERSAL CHANNEL HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602602
+#EXTINF:-1 tvg-id="" tvg-name="LAP87: UNIVERSAL CHANNEL" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP87: UNIVERSAL CHANNEL
+http://k4livetv.com:8080/Sandra321/Sandra321/602603
+#EXTINF:-1 tvg-id="" tvg-name="LAP88: HBO SIGNATURE FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP88: HBO SIGNATURE FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602604
+#EXTINF:-1 tvg-id="" tvg-name="LAP89: HBO SIGNATURE HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP89: HBO SIGNATURE HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602605
+#EXTINF:-1 tvg-id="" tvg-name="LAP90: HBO SIGNATURE" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP90: HBO SIGNATURE
+http://k4livetv.com:8080/Sandra321/Sandra321/602606
+#EXTINF:-1 tvg-id="" tvg-name="LAP91: FOX FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP91: FOX FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602607
+#EXTINF:-1 tvg-id="" tvg-name="LAP92: FX HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP92: FX HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602608
+#EXTINF:-1 tvg-id="" tvg-name="LAP93: FOX" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP93: FOX
+http://k4livetv.com:8080/Sandra321/Sandra321/602609
+#EXTINF:-1 tvg-id="" tvg-name="LAP94: GOLDEN PREMIER FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP94: GOLDEN PREMIER FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602610
+#EXTINF:-1 tvg-id="" tvg-name="LAP95: GOLDEN PREMIER HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP95: GOLDEN PREMIER HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602611
+#EXTINF:-1 tvg-id="" tvg-name="LAP96: GOLDEN PREMIER" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP96: GOLDEN PREMIER
+http://k4livetv.com:8080/Sandra321/Sandra321/602612
+#EXTINF:-1 tvg-id="" tvg-name="LAP97: NICK 2 FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP97: NICK 2 FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602613
+#EXTINF:-1 tvg-id="" tvg-name="LAP98: NICK 2 HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP98: NICK 2 HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602614
+#EXTINF:-1 tvg-id="" tvg-name="LAP99: NICK 2" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP99: NICK 2
+http://k4livetv.com:8080/Sandra321/Sandra321/602615
+#EXTINF:-1 tvg-id="" tvg-name="LAP100: ESPN 3 FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP100: ESPN 3 FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602616
+#EXTINF:-1 tvg-id="" tvg-name="LAP101: ESPN 3 HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP101: ESPN 3 HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602617
+#EXTINF:-1 tvg-id="" tvg-name="LAP102: ESPN 3" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP102: ESPN 3
+http://k4livetv.com:8080/Sandra321/Sandra321/602618
+#EXTINF:-1 tvg-id="" tvg-name="LAP103: HBO XTREME FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP103: HBO XTREME FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602619
+#EXTINF:-1 tvg-id="" tvg-name="LAP104: HBO XTREME HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP104: HBO XTREME HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602620
+#EXTINF:-1 tvg-id="" tvg-name="LAP105: HBO XTREME FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP105: HBO XTREME FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602621
+#EXTINF:-1 tvg-id="" tvg-name="LAP106: TNT FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP106: TNT FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602622
+#EXTINF:-1 tvg-id="" tvg-name="LAP107: TNT HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP107: TNT HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602623
+#EXTINF:-1 tvg-id="" tvg-name="LAP108: TNT" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP108: TNT
+http://k4livetv.com:8080/Sandra321/Sandra321/602624
+#EXTINF:-1 tvg-id="" tvg-name="LAP109: FOX SPORT PREMIUM FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP109: FOX SPORT PREMIUM FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602625
+#EXTINF:-1 tvg-id="" tvg-name="LAP110: FOX SPORT PREMIUM HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP110: FOX SPORT PREMIUM HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602626
+#EXTINF:-1 tvg-id="" tvg-name="LAP111: FOX SPORT PREMIUM" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP111: FOX SPORT PREMIUM
+http://k4livetv.com:8080/Sandra321/Sandra321/602627
+#EXTINF:-1 tvg-id="" tvg-name="LAP112: TRU TV FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP112: TRU TV FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602628
+#EXTINF:-1 tvg-id="" tvg-name="LAP113: TRU TV HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP113: TRU TV HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602629
+#EXTINF:-1 tvg-id="" tvg-name="LAP114: TRU TV" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP114: TRU TV
+http://k4livetv.com:8080/Sandra321/Sandra321/602630
+#EXTINF:-1 tvg-id="" tvg-name="LAP115: HBO POP FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP115: HBO POP FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602631
+#EXTINF:-1 tvg-id="" tvg-name="LAP116: HBO POP HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP116: HBO POP HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602632
+#EXTINF:-1 tvg-id="" tvg-name="LAP117: HBO POP" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP117: HBO POP
+http://k4livetv.com:8080/Sandra321/Sandra321/602633
+#EXTINF:-1 tvg-id="" tvg-name="LAP118: HBO FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP118: HBO FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602634
+#EXTINF:-1 tvg-id="" tvg-name="LAP119: HBO HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP119: HBO HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602635
+#EXTINF:-1 tvg-id="" tvg-name="LAP120: HBO" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP120: HBO
+http://k4livetv.com:8080/Sandra321/Sandra321/602636
+#EXTINF:-1 tvg-id="" tvg-name="LAP121: TNT SERIES FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP121: TNT SERIES FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602637
+#EXTINF:-1 tvg-id="" tvg-name="LAP122: TNT SERIES HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP122: TNT SERIES HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602638
+#EXTINF:-1 tvg-id="" tvg-name="LAP123: TNT SERIES" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP123: TNT SERIES
+http://k4livetv.com:8080/Sandra321/Sandra321/602639
+#EXTINF:-1 tvg-id="" tvg-name="LAP124: ESPN FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP124: ESPN FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602640
+#EXTINF:-1 tvg-id="" tvg-name="LAP125: ESPN HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP125: ESPN HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602641
+#EXTINF:-1 tvg-id="" tvg-name="LAP126: ESPN" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP126: ESPN
+http://k4livetv.com:8080/Sandra321/Sandra321/602642
+#EXTINF:-1 tvg-id="" tvg-name="LAP127: FOX SP1 MX FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP127: FOX SP1 MX FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602643
+#EXTINF:-1 tvg-id="" tvg-name="LAP128: FOX SP1 MX HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP128: FOX SP1 MX HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602644
+#EXTINF:-1 tvg-id="" tvg-name="LAP129: FOX SP1 MX" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP129: FOX SP1 MX
+http://k4livetv.com:8080/Sandra321/Sandra321/602645
+#EXTINF:-1 tvg-id="" tvg-name="LAP130:  HBO MUNDI FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP130:  HBO MUNDI FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602646
+#EXTINF:-1 tvg-id="" tvg-name="LAP131:  HBO MUNDI HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP131:  HBO MUNDI HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602647
+#EXTINF:-1 tvg-id="" tvg-name="LAP132:  HBO MUNDI" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP132:  HBO MUNDI
+http://k4livetv.com:8080/Sandra321/Sandra321/602648
+#EXTINF:-1 tvg-id="" tvg-name="LAP133: DISOVERY CIVILIZATION FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP133: DISOVERY CIVILIZATION FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602649
+#EXTINF:-1 tvg-id="" tvg-name="LAP134: DISOVERY CIVILIZATION HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP134: DISOVERY CIVILIZATION HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602650
+#EXTINF:-1 tvg-id="" tvg-name="LAP135 DISOVERY CIVILIZATION" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP135 DISOVERY CIVILIZATION
+http://k4livetv.com:8080/Sandra321/Sandra321/602651
+#EXTINF:-1 tvg-id="" tvg-name="LAP136: DISCOVERY SCIENCE FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP136: DISCOVERY SCIENCE FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602652
+#EXTINF:-1 tvg-id="" tvg-name="LAP137: DISCOVERY SCIENCE HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP137: DISCOVERY SCIENCE HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602653
+#EXTINF:-1 tvg-id="" tvg-name="LAP138: DISCOVERY SCIENCE" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP138: DISCOVERY SCIENCE
+http://k4livetv.com:8080/Sandra321/Sandra321/602654
+#EXTINF:-1 tvg-id="" tvg-name="LAP139: TCM FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP139: TCM FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602655
+#EXTINF:-1 tvg-id="" tvg-name="LAP140: TCM HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP140: TCM HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602656
+#EXTINF:-1 tvg-id="" tvg-name="LAP141: TCM" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP141: TCM
+http://k4livetv.com:8080/Sandra321/Sandra321/602657
+#EXTINF:-1 tvg-id="" tvg-name="LAP142: DISNEY JR FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP142: DISNEY JR FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602658
+#EXTINF:-1 tvg-id="" tvg-name="LAP143: DISNEY JR HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP143: DISNEY JR HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602659
+#EXTINF:-1 tvg-id="" tvg-name="LAP144:  DISNEY JR" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP144:  DISNEY JR
+http://k4livetv.com:8080/Sandra321/Sandra321/602660
+#EXTINF:-1 tvg-id="" tvg-name="LAP145: MAX FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP145: MAX FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602661
+#EXTINF:-1 tvg-id="" tvg-name="LAP146: MAX HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP146: MAX HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602662
+#EXTINF:-1 tvg-id="" tvg-name="LAP147: MAX" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP147: MAX
+http://k4livetv.com:8080/Sandra321/Sandra321/602663
+#EXTINF:-1 tvg-id="" tvg-name="LAP148: DE PELICULA FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP148: DE PELICULA FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602664
+#EXTINF:-1 tvg-id="" tvg-name="LAP149: DE PELICULA HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP149: DE PELICULA HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602665
+#EXTINF:-1 tvg-id="" tvg-name="LAP150: DE PELICULA" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP150: DE PELICULA
+http://k4livetv.com:8080/Sandra321/Sandra321/602666
+#EXTINF:-1 tvg-id="" tvg-name="LAP151: BOOMERANG FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP151: BOOMERANG FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602667
+#EXTINF:-1 tvg-id="" tvg-name="LAP152: BOOMERANG HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP152: BOOMERANG HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602668
+#EXTINF:-1 tvg-id="" tvg-name="LAP153: BOOMERANG" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP153: BOOMERANG
+http://k4livetv.com:8080/Sandra321/Sandra321/602669
+#EXTINF:-1 tvg-id="" tvg-name="LAP154: TV5 FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP154: TV5 FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602670
+#EXTINF:-1 tvg-id="" tvg-name="LAP155: TV5 HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP155: TV5 HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602671
+#EXTINF:-1 tvg-id="" tvg-name="LAP156: TV5" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP156: TV5
+http://k4livetv.com:8080/Sandra321/Sandra321/602672
+#EXTINF:-1 tvg-id="" tvg-name="LAP157: CINEMAPLUS FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP157: CINEMAPLUS FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602673
+#EXTINF:-1 tvg-id="" tvg-name="LAP158: CINEMAPLUS HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP158: CINEMAPLUS HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602674
+#EXTINF:-1 tvg-id="" tvg-name="LAP159: CINEMAPLUS" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP159: CINEMAPLUS
+http://k4livetv.com:8080/Sandra321/Sandra321/602675
+#EXTINF:-1 tvg-id="" tvg-name="LAP160: CINELATINO FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP160: CINELATINO FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602676
+#EXTINF:-1 tvg-id="" tvg-name="LAP161: CINELATINO HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP161: CINELATINO HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602677
+#EXTINF:-1 tvg-id="" tvg-name="LAP162: CINELATINO" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP162: CINELATINO
+http://k4livetv.com:8080/Sandra321/Sandra321/602678
+#EXTINF:-1 tvg-id="" tvg-name="LAP163: TLNOVELAS FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP163: TLNOVELAS FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602679
+#EXTINF:-1 tvg-id="" tvg-name="LAP164: TLNOVELAS HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP164: TLNOVELAS HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602680
+#EXTINF:-1 tvg-id="" tvg-name="LAP165: TLNOVELAS" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP165: TLNOVELAS
+http://k4livetv.com:8080/Sandra321/Sandra321/602681
+#EXTINF:-1 tvg-id="" tvg-name="LAP166: TELEHIT FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP166: TELEHIT FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602682
+#EXTINF:-1 tvg-id="" tvg-name="LAP167: TELEHIT HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP167: TELEHIT HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602683
+#EXTINF:-1 tvg-id="" tvg-name="LAP168: TELEHIT" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP168: TELEHIT
+http://k4livetv.com:8080/Sandra321/Sandra321/602684
+#EXTINF:-1 tvg-id="" tvg-name="LAP169: RADIOLA FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP169: RADIOLA FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602685
+#EXTINF:-1 tvg-id="" tvg-name="LAP170 RADIOLA HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP170 RADIOLA HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602686
+#EXTINF:-1 tvg-id="" tvg-name="LAP171 RADIOLA" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP171 RADIOLA
+http://k4livetv.com:8080/Sandra321/Sandra321/602687
+#EXTINF:-1 tvg-id="" tvg-name="LAP172: CINEMAX FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP172: CINEMAX FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602688
+#EXTINF:-1 tvg-id="" tvg-name="LAP173: CINEMAX HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP173: CINEMAX HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602689
+#EXTINF:-1 tvg-id="" tvg-name="LAP174: CINEMAX" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP174: CINEMAX
+http://k4livetv.com:8080/Sandra321/Sandra321/602690
+#EXTINF:-1 tvg-id="" tvg-name="LAP175: TELEAMIGA FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP175: TELEAMIGA FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602691
+#EXTINF:-1 tvg-id="" tvg-name="LAP176: TELEAMIGA HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP176: TELEAMIGA HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602692
+#EXTINF:-1 tvg-id="" tvg-name="LAP177: TELEAMIGA" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP177: TELEAMIGA
+http://k4livetv.com:8080/Sandra321/Sandra321/602693
+#EXTINF:-1 tvg-id="" tvg-name="LAP178: MULTIPREMIER FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP178: MULTIPREMIER FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602694
+#EXTINF:-1 tvg-id="" tvg-name="LAP179: MULTIPREMIER HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP179: MULTIPREMIER HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602695
+#EXTINF:-1 tvg-id="" tvg-name="LAP180: MULTIPREMIER" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP180: MULTIPREMIER
+http://k4livetv.com:8080/Sandra321/Sandra321/602696
+#EXTINF:-1 tvg-id="" tvg-name="LAP181: CDN FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP181: CDN FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602697
+#EXTINF:-1 tvg-id="" tvg-name="LAP182: CDN HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP182: CDN HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602698
+#EXTINF:-1 tvg-id="" tvg-name="LAP183: CDN" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP183: CDN
+http://k4livetv.com:8080/Sandra321/Sandra321/602699
+#EXTINF:-1 tvg-id="" tvg-name="LAP184: TIEMPO TV FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP184: TIEMPO TV FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602700
+#EXTINF:-1 tvg-id="" tvg-name="LAP185: TIEMPO TV HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP185: TIEMPO TV HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602701
+#EXTINF:-1 tvg-id="" tvg-name="LAP186: TIEMPO TV" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP186: TIEMPO TV
+http://k4livetv.com:8080/Sandra321/Sandra321/602702
+#EXTINF:-1 tvg-id="" tvg-name="LAP187: ISAT FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP187: ISAT FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602703
+#EXTINF:-1 tvg-id="" tvg-name="LAP188: ISAT HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP188: ISAT HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602704
+#EXTINF:-1 tvg-id="" tvg-name="LAP189: ISAT" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP189: ISAT
+http://k4livetv.com:8080/Sandra321/Sandra321/602705
+#EXTINF:-1 tvg-id="" tvg-name="LAP190: PASIONES FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP190: PASIONES FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602706
+#EXTINF:-1 tvg-id="" tvg-name="LAP191: PASIONES HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP191: PASIONES HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602707
+#EXTINF:-1 tvg-id="" tvg-name="LAP192: PASIONES" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP192: PASIONES
+http://k4livetv.com:8080/Sandra321/Sandra321/602708
+#EXTINF:-1 tvg-id="" tvg-name="LAP193: FOX SPORTS 3 FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP193: FOX SPORTS 3 FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602709
+#EXTINF:-1 tvg-id="" tvg-name="LAP194: FOX SPORTS 3 HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP194: FOX SPORTS 3 HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602710
+#EXTINF:-1 tvg-id="" tvg-name="LAP195: FOX SPORTS 3" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP195: FOX SPORTS 3
+http://k4livetv.com:8080/Sandra321/Sandra321/602711
+#EXTINF:-1 tvg-id="" tvg-name="LAP196: FOX SPOTRS 2 FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP196: FOX SPOTRS 2 FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602712
+#EXTINF:-1 tvg-id="" tvg-name="LAP197: FOX SPOTRS 2 HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP197: FOX SPOTRS 2 HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602713
+#EXTINF:-1 tvg-id="" tvg-name="LAP198: FOX SPOTRS 2" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP198: FOX SPOTRS 2
+http://k4livetv.com:8080/Sandra321/Sandra321/602714
+#EXTINF:-1 tvg-id="" tvg-name="LAP199: MAX UP FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP199: MAX UP FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602715
+#EXTINF:-1 tvg-id="" tvg-name="LAP200 MAX UP HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP200 MAX UP HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602716
+#EXTINF:-1 tvg-id="" tvg-name="LAP201 MAX UP" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP201 MAX UP
+http://k4livetv.com:8080/Sandra321/Sandra321/602717
+#EXTINF:-1 tvg-id="" tvg-name="LAP202: CNN MEXICO FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP202: CNN MEXICO FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602718
+#EXTINF:-1 tvg-id="" tvg-name="LAP203: CNN MEXICO  HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP203: CNN MEXICO  HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602719
+#EXTINF:-1 tvg-id="" tvg-name="LAP204: CNN MEXICO" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP204: CNN MEXICO
+http://k4livetv.com:8080/Sandra321/Sandra321/602720
+#EXTINF:-1 tvg-id="" tvg-name="LAP205: MAX PRIME FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP205: MAX PRIME FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602721
+#EXTINF:-1 tvg-id="" tvg-name="LAP206: MAX PRIME HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP206: MAX PRIME HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602722
+#EXTINF:-1 tvg-id="" tvg-name="LAP207 MAX PRIME" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP207 MAX PRIME
+http://k4livetv.com:8080/Sandra321/Sandra321/602723
+#EXTINF:-1 tvg-id="" tvg-name="LAP208: FOX SPORTS FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP208: FOX SPORTS FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602724
+#EXTINF:-1 tvg-id="" tvg-name="LAP209: FOX SPORTS HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP209: FOX SPORTS HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602725
+#EXTINF:-1 tvg-id="" tvg-name="LAP210: FOX SPORTS" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP210: FOX SPORTS
+http://k4livetv.com:8080/Sandra321/Sandra321/602726
+#EXTINF:-1 tvg-id="" tvg-name="LAP211: PARAMOUNT FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP211: PARAMOUNT FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602727
+#EXTINF:-1 tvg-id="" tvg-name="LAP212: PARAMOUNT HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP212: PARAMOUNT HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602728
+#EXTINF:-1 tvg-id="" tvg-name="LAP213: PARAMOUNT" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP213: PARAMOUNT
+http://k4livetv.com:8080/Sandra321/Sandra321/602729
+#EXTINF:-1 tvg-id="" tvg-name="LAP214: NOCKELODEON FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP214: NOCKELODEON FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602730
+#EXTINF:-1 tvg-id="" tvg-name="LAP215: NOCKELODEON HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP215: NOCKELODEON HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602731
+#EXTINF:-1 tvg-id="" tvg-name="LAP216: NOCKELODEON" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP216: NOCKELODEON
+http://k4livetv.com:8080/Sandra321/Sandra321/602732
+#EXTINF:-1 tvg-id="" tvg-name="LAP217: MAS CHIC FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP217: MAS CHIC FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602733
+#EXTINF:-1 tvg-id="" tvg-name="LAP218: MAS CHIC HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP218: MAS CHIC HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602734
+#EXTINF:-1 tvg-id="" tvg-name="LAP219: MAS CHIC" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP219: MAS CHIC
+http://k4livetv.com:8080/Sandra321/Sandra321/602735
+#EXTINF:-1 tvg-id="" tvg-name="LAP220: STUDIO UNIVERSAL FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP220: STUDIO UNIVERSAL FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602736
+#EXTINF:-1 tvg-id="" tvg-name="LAP221: STUDIO UNIVERSAL HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP221: STUDIO UNIVERSAL HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602737
+#EXTINF:-1 tvg-id="" tvg-name="LAP222: STUDIO UNIVERSAL" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP222: STUDIO UNIVERSAL
+http://k4livetv.com:8080/Sandra321/Sandra321/602738
+#EXTINF:-1 tvg-id="" tvg-name="LAP223: SONY FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP223: SONY FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602739
+#EXTINF:-1 tvg-id="" tvg-name="LAP224: SONY HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP224: SONY HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602740
+#EXTINF:-1 tvg-id="" tvg-name="LAP225: SONY" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP225: SONY
+http://k4livetv.com:8080/Sandra321/Sandra321/602741
+#EXTINF:-1 tvg-id="" tvg-name="LAP226: NICK JR FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP226: NICK JR FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602742
+#EXTINF:-1 tvg-id="" tvg-name="LAP227: NICK JR HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP227: NICK JR HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602743
+#EXTINF:-1 tvg-id="" tvg-name="LAP228: NICK JR" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP228: NICK JR
+http://k4livetv.com:8080/Sandra321/Sandra321/602744
+#EXTINF:-1 tvg-id="" tvg-name="LAP229: UNINVERSAL REALITY FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP229: UNINVERSAL REALITY FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602745
+#EXTINF:-1 tvg-id="" tvg-name="LAP230: UNINVERSAL REALITY HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP230: UNINVERSAL REALITY HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602746
+#EXTINF:-1 tvg-id="" tvg-name="LAP231: UNINVERSAL REALITY" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP231: UNINVERSAL REALITY
+http://k4livetv.com:8080/Sandra321/Sandra321/602747
+#EXTINF:-1 tvg-id="" tvg-name="LAP232: UNIVERSAL COMEDY FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP232: UNIVERSAL COMEDY FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602748
+#EXTINF:-1 tvg-id="" tvg-name="LAP233: UNIVERSAL COMEDY HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP233: UNIVERSAL COMEDY HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602749
+#EXTINF:-1 tvg-id="" tvg-name="LAP234: UNIVERSAL COMEDY" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP234: UNIVERSAL COMEDY
+http://k4livetv.com:8080/Sandra321/Sandra321/602750
+#EXTINF:-1 tvg-id="" tvg-name="LAP235: H2 FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP235: H2 FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602751
+#EXTINF:-1 tvg-id="" tvg-name="LAP236: H2 HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP236: H2 HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602752
+#EXTINF:-1 tvg-id="" tvg-name="LAP237: H2" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP237: H2
+http://k4livetv.com:8080/Sandra321/Sandra321/602753
+#EXTINF:-1 tvg-id="" tvg-name="LAP238: MTV FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP238: MTV FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602754
+#EXTINF:-1 tvg-id="" tvg-name="LAP239: MTV HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP239: MTV HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602755
+#EXTINF:-1 tvg-id="" tvg-name="LAP240: MTV" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP240: MTV
+http://k4livetv.com:8080/Sandra321/Sandra321/602756
+#EXTINF:-1 tvg-id="" tvg-name="LAP240: UNIVERSAL PREMIER FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP240: UNIVERSAL PREMIER FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602757
+#EXTINF:-1 tvg-id="" tvg-name="LAP241: UNIVERSAL PREMIER HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP241: UNIVERSAL PREMIER HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602758
+#EXTINF:-1 tvg-id="" tvg-name="LAP242: UNIVERSAL PREMIER" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP242: UNIVERSAL PREMIER
+http://k4livetv.com:8080/Sandra321/Sandra321/602759
+#EXTINF:-1 tvg-id="" tvg-name="LAP243: RCN FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP243: RCN FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602760
+#EXTINF:-1 tvg-id="" tvg-name="LAP244: RCN HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP244: RCN HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602761
+#EXTINF:-1 tvg-id="" tvg-name="LAP245: RCN" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP245: RCN
+http://k4livetv.com:8080/Sandra321/Sandra321/602762
+#EXTINF:-1 tvg-id="" tvg-name="LAP246: UNIVERSAL CRIME FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP246: UNIVERSAL CRIME FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602763
+#EXTINF:-1 tvg-id="" tvg-name="LAP247: UNIVERSAL CRIME HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP247: UNIVERSAL CRIME HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602764
+#EXTINF:-1 tvg-id="" tvg-name="LAP248: UNIVERSAL CRIME" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP248: UNIVERSAL CRIME
+http://k4livetv.com:8080/Sandra321/Sandra321/602765
+#EXTINF:-1 tvg-id="" tvg-name="LAP249: GOLDEN FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP249: GOLDEN FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602766
+#EXTINF:-1 tvg-id="" tvg-name="LAP250: GOLDEN HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP250: GOLDEN HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602767
+#EXTINF:-1 tvg-id="" tvg-name="LAP251: GOLDEN" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP251: GOLDEN
+http://k4livetv.com:8080/Sandra321/Sandra321/602768
+#EXTINF:-1 tvg-id="" tvg-name="LAP252: MTV LIVE FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP252: MTV LIVE FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602769
+#EXTINF:-1 tvg-id="" tvg-name="LAP253: MTV LIVE HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP253: MTV LIVE HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602770
+#EXTINF:-1 tvg-id="" tvg-name="LAP254: MTV LIVE" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP254: MTV LIVE
+http://k4livetv.com:8080/Sandra321/Sandra321/602771
+#EXTINF:-1 tvg-id="" tvg-name="LAP255: SPACE FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP255: SPACE FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602772
+#EXTINF:-1 tvg-id="" tvg-name="LAP256: SPACE HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP256: SPACE HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602773
+#EXTINF:-1 tvg-id="" tvg-name="LAP257: SPACE" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP257: SPACE
+http://k4livetv.com:8080/Sandra321/Sandra321/602774
+#EXTINF:-1 tvg-id="" tvg-name="LAP258: VH1 FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP258: VH1 FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602775
+#EXTINF:-1 tvg-id="" tvg-name="LAP259: VH1 HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP259: VH1 HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602776
+#EXTINF:-1 tvg-id="" tvg-name="LAP260: VH1" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP260: VH1
+http://k4livetv.com:8080/Sandra321/Sandra321/602777
+#EXTINF:-1 tvg-id="" tvg-name="LAP261: UNIVERSAL CINEMA FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP261: UNIVERSAL CINEMA FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602778
+#EXTINF:-1 tvg-id="" tvg-name="LAP262: UNIVERSAL CINEMA HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP262: UNIVERSAL CINEMA HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602779
+#EXTINF:-1 tvg-id="" tvg-name="LAP263: UNIVERSAL CINEMA" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP263: UNIVERSAL CINEMA
+http://k4livetv.com:8080/Sandra321/Sandra321/602780
+#EXTINF:-1 tvg-id="" tvg-name="LAP264: WARNER FHD" tvg-logo="http://www.skytvpluzz.xyz:8000/images/5463b1b707dd77f95c6c79065a47e6e7.png" group-title="⚪ -  LATINOS PREMIUM",LAP264: WARNER FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602781
+#EXTINF:-1 tvg-id="" tvg-name="LAP265: WARNER HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP265: WARNER HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602782
+#EXTINF:-1 tvg-id="" tvg-name="LAP266: WARNER" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP266: WARNER
+http://k4livetv.com:8080/Sandra321/Sandra321/602783
+#EXTINF:-1 tvg-id="" tvg-name="LAP267: TLC FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP267: TLC FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602784
+#EXTINF:-1 tvg-id="" tvg-name="LAP268: TLC HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP268: TLC HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602785
+#EXTINF:-1 tvg-id="" tvg-name="LAP269: TLC" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP269: TLC
+http://k4livetv.com:8080/Sandra321/Sandra321/602786
+#EXTINF:-1 tvg-id="" tvg-name="LAP270: TOONCAST FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP270: TOONCAST FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602787
+#EXTINF:-1 tvg-id="" tvg-name="LAP271: TOONCAST HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP271: TOONCAST HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602788
+#EXTINF:-1 tvg-id="" tvg-name="LAP272: TOONCAST" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP272: TOONCAST
+http://k4livetv.com:8080/Sandra321/Sandra321/602789
+#EXTINF:-1 tvg-id="" tvg-name="LAP273: RCN TELENOVELAS FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP273: RCN TELENOVELAS FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602790
+#EXTINF:-1 tvg-id="" tvg-name="LAP274: RCN TELENOVELAS HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP274: RCN TELENOVELAS HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602791
+#EXTINF:-1 tvg-id="" tvg-name="LAP275: RCN TELENOVELAS" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP275: RCN TELENOVELAS
+http://k4livetv.com:8080/Sandra321/Sandra321/602792
+#EXTINF:-1 tvg-id="" tvg-name="LAP276: MUTLTICINEMA PREMIER FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP276: MUTLTICINEMA PREMIER FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602793
+#EXTINF:-1 tvg-id="" tvg-name="LAP277: MUTLTICINEMA PREMIER HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP277: MUTLTICINEMA PREMIER HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602794
+#EXTINF:-1 tvg-id="" tvg-name="LAP278: MUTLTICINEMA PREMIER" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP278: MUTLTICINEMA PREMIER
+http://k4livetv.com:8080/Sandra321/Sandra321/602795
+#EXTINF:-1 tvg-id="" tvg-name="LAP279: VH1 CLASSIC FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP279: VH1 CLASSIC FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602796
+#EXTINF:-1 tvg-id="" tvg-name="LAP280: VH1 CLASSIC HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP280: VH1 CLASSIC HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602797
+#EXTINF:-1 tvg-id="" tvg-name="LAP281: VH1 CLASSIC" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP281: VH1 CLASSIC
+http://k4livetv.com:8080/Sandra321/Sandra321/602798
+#EXTINF:-1 tvg-id="" tvg-name="LAP282: NTN24 FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP282: NTN24 FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602799
+#EXTINF:-1 tvg-id="" tvg-name="LAP284: NTN24 HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP284: NTN24 HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602800
+#EXTINF:-1 tvg-id="" tvg-name="LAP285: NTN24" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP285: NTN24
+http://k4livetv.com:8080/Sandra321/Sandra321/602801
+#EXTINF:-1 tvg-id="" tvg-name="LAP286: GLITZ FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP286: GLITZ FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602802
+#EXTINF:-1 tvg-id="" tvg-name="LAP287: GLITZ HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP287: GLITZ HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602803
+#EXTINF:-1 tvg-id="" tvg-name="LAP288: GLITZ" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP288: GLITZ
+http://k4livetv.com:8080/Sandra321/Sandra321/602804
+#EXTINF:-1 tvg-id="" tvg-name="LAP289: NICKTOONS FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP289: NICKTOONS FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602805
+#EXTINF:-1 tvg-id="" tvg-name="LAP290: NICKTOONS HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP290: NICKTOONS HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602806
+#EXTINF:-1 tvg-id="" tvg-name="LAP291: NICKTOONS" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP291: NICKTOONS
+http://k4livetv.com:8080/Sandra321/Sandra321/602807
+#EXTINF:-1 tvg-id="" tvg-name="LAP292: MTV HITS FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP292: MTV HITS FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602808
+#EXTINF:-1 tvg-id="" tvg-name="LAP293: MTV HITS HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP293: MTV HITS HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602809
+#EXTINF:-1 tvg-id="" tvg-name="LAP294: MTV HITS" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP294: MTV HITS
+http://k4livetv.com:8080/Sandra321/Sandra321/602810
+#EXTINF:-1 tvg-id="" tvg-name="LAP295: NUESTRA TELE FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP295: NUESTRA TELE FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602811
+#EXTINF:-1 tvg-id="" tvg-name="LAP296: NUESTRA TELE HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP296: NUESTRA TELE HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602812
+#EXTINF:-1 tvg-id="" tvg-name="LAP297: NUESTRA TELE" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP297: NUESTRA TELE
+http://k4livetv.com:8080/Sandra321/Sandra321/602813
+#EXTINF:-1 tvg-id="" tvg-name="LAP298: TBS FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP298: TBS FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602814
+#EXTINF:-1 tvg-id="" tvg-name="LAP299: TBS HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP299: TBS HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602815
+#EXTINF:-1 tvg-id="" tvg-name="LAP300: TBS" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP300: TBS
+http://k4livetv.com:8080/Sandra321/Sandra321/602816
+#EXTINF:-1 tvg-id="" tvg-name="LAP301: CARACOL FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP301: CARACOL FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602817
+#EXTINF:-1 tvg-id="" tvg-name="LAP302: CARACOL HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP302: CARACOL HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602818
+#EXTINF:-1 tvg-id="" tvg-name="LAP303: CARACOL" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP303: CARACOL
+http://k4livetv.com:8080/Sandra321/Sandra321/602819
+#EXTINF:-1 tvg-id="" tvg-name="LAP304: E! ENTERTAINMENT FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP304: E! ENTERTAINMENT FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602820
+#EXTINF:-1 tvg-id="" tvg-name="LAP305: E! ENTERTAINMENT HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP305: E! ENTERTAINMENT HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602821
+#EXTINF:-1 tvg-id="" tvg-name="LAP306: E! ENTERTAINMENT" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP306: E! ENTERTAINMENT
+http://k4livetv.com:8080/Sandra321/Sandra321/602822
+#EXTINF:-1 tvg-id="" tvg-name="LAP307: ESPN 2 FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP307: ESPN 2 FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602823
+#EXTINF:-1 tvg-id="" tvg-name="LAP308: ESPN 2 HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP308: ESPN 2 HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602824
+#EXTINF:-1 tvg-id="" tvg-name="LAP309: ESPN 2" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP309: ESPN 2
+http://k4livetv.com:8080/Sandra321/Sandra321/602825
+#EXTINF:-1 tvg-id="" tvg-name="LAP310: CANAL DE LAS ESTRELLAS -2HORAS FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP310: CANAL DE LAS ESTRELLAS -2HORAS FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602826
+#EXTINF:-1 tvg-id="" tvg-name="LAP311: CANAL DE LAS ESTRELLAS -2HORAS HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP311: CANAL DE LAS ESTRELLAS -2HORAS HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602827
+#EXTINF:-1 tvg-id="" tvg-name="LAP312: CANAL DE LAS ESTRELLAS -2HORAS" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP312: CANAL DE LAS ESTRELLAS -2HORAS
+http://k4livetv.com:8080/Sandra321/Sandra321/602828
+#EXTINF:-1 tvg-id="" tvg-name="LAP313: LIFETIME FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP313: LIFETIME FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602829
+#EXTINF:-1 tvg-id="" tvg-name="LAP314: LIFETIME HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP314: LIFETIME HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602830
+#EXTINF:-1 tvg-id="" tvg-name="LAP315: LIFETIME" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP315: LIFETIME
+http://k4livetv.com:8080/Sandra321/Sandra321/602831
+#EXTINF:-1 tvg-id="" tvg-name="LAP316: ADN 40 FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP316: ADN 40 FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602832
+#EXTINF:-1 tvg-id="" tvg-name="LAP317: ADN 40 HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP317: ADN 40 HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602833
+#EXTINF:-1 tvg-id="" tvg-name="LAP318: ADN 40" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP318: ADN 40
+http://k4livetv.com:8080/Sandra321/Sandra321/602834
+#EXTINF:-1 tvg-id="" tvg-name="LAP319: ADRENALINA FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP319: ADRENALINA FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602835
+#EXTINF:-1 tvg-id="" tvg-name="LAP320: ADRENALINA HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP320: ADRENALINA HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602836
+#EXTINF:-1 tvg-id="" tvg-name="LAP321: ADRENALINA" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP321: ADRENALINA
+http://k4livetv.com:8080/Sandra321/Sandra321/602837
+#EXTINF:-1 tvg-id="" tvg-name="LAP322: ESPN EXTRA FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP322: ESPN EXTRA FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602838
+#EXTINF:-1 tvg-id="" tvg-name="LAP323: ESPN EXTRA HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP323: ESPN EXTRA HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602839
+#EXTINF:-1 tvg-id="" tvg-name="LAP324: ESPN EXTRA" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP324: ESPN EXTRA
+http://k4livetv.com:8080/Sandra321/Sandra321/602840
+#EXTINF:-1 tvg-id="" tvg-name="LAP325: COMEDY CENTRAL FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP325: COMEDY CENTRAL FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602841
+#EXTINF:-1 tvg-id="" tvg-name="LAP326: COMEDY CENTRAL HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP326: COMEDY CENTRAL HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602842
+#EXTINF:-1 tvg-id="" tvg-name="LAP327: COMEDY CENTRAL" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP327: COMEDY CENTRAL
+http://k4livetv.com:8080/Sandra321/Sandra321/602843
+#EXTINF:-1 tvg-id="" tvg-name="LAP328: DISCOVERY ID FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP328: DISCOVERY ID FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602844
+#EXTINF:-1 tvg-id="" tvg-name="LAP329: DISCOVERY ID HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP329: DISCOVERY ID HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602845
+#EXTINF:-1 tvg-id="" tvg-name="LAP330: DISCOVERY ID" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP330: DISCOVERY ID
+http://k4livetv.com:8080/Sandra321/Sandra321/602846
+#EXTINF:-1 tvg-id="" tvg-name="LAP331: BANDAMAX FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP331: BANDAMAX FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602847
+#EXTINF:-1 tvg-id="" tvg-name="LAP332: BANDAMAX HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP332: BANDAMAX HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602848
+#EXTINF:-1 tvg-id="" tvg-name="LAP333: BANDAMAX" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP333: BANDAMAX
+http://k4livetv.com:8080/Sandra321/Sandra321/602849
+#EXTINF:-1 tvg-id="" tvg-name="LAP334: HISTORY CHANNEL FHD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP334: HISTORY CHANNEL FHD
+http://k4livetv.com:8080/Sandra321/Sandra321/602850
+#EXTINF:-1 tvg-id="" tvg-name="LAP335: HISTORY CHANNEL HD" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP335: HISTORY CHANNEL HD
+http://k4livetv.com:8080/Sandra321/Sandra321/602851
+#EXTINF:-1 tvg-id="" tvg-name="LAP336: HISTORY CHANNEL" tvg-logo="" group-title="⚪ -  LATINOS PREMIUM",LAP336: HISTORY CHANNEL
+http://k4livetv.com:8080/Sandra321/Sandra321/602852
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports Peru FHD" tvg-logo="http://k4livetv.com:8080/images/d70e9acf0fedebe6c0515aacf6b94888.png" group-title="⚽ - DIRECTV SPORTS",Directv Sports Peru FHD
 http://k4livetv.com:8080/Sandra321/Sandra321/589308
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports Peru HD" tvg-logo="http://k4livetv.com:8080/images/d70e9acf0fedebe6c0515aacf6b94888.png" group-title="⚽ - DIRECTV SPORTS",Directv Sports Peru HD
